@@ -1,0 +1,16 @@
+{
+  "connection": "default",
+  "collectionName": "htmls",
+  "info": {
+    "name": "headerhtml",
+    "description": "content type for different html strings"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    
+  }
+}
