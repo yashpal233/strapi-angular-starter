@@ -5,6 +5,7 @@
   "description": "A Strapi application",
   "scripts": {
     "develop": "strapi develop",
+    "develop-ng": "cd ./public/ngapp/ && ng serve",
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
